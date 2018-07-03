@@ -1,0 +1,40 @@
+body {
+	background-color: #e3e3e3;
+}
+
+::-webkit-input-placeholder { /* Chrome */
+  color: #46494f;
+  position: relative;
+  left: 10px;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #46494f;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #46494f;
+  opacity: 1;
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+  color: #46494f;
+  opacity: 1;
+}
+h2 {
+	font-family: sans-serif;
+	color: #46494f;
+}
+input {
+	border-radius: 7%;
+	height: 25px;
+}
+.rog {
+	font-weight: bold;
+		color: #e3e3e3;
+		width: 5%; height: 23px;
+		font-family: sans-serif;
+		letter-spacing: 1px;
+		background-color: #3084a5;
+		border:0px solid #479968;
+		border-radius: 10px;
+
+}
+

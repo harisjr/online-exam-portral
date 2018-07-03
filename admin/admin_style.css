@@ -1,0 +1,44 @@
+body{
+	background-color: #e3e3e3;
+	margin: 20px;
+}
+
+
+.side_right{
+	border: 1px solid #7caaad;
+	width: 200px; height: 370px;
+	position: relative;
+	left: 20px; top: 50px;
+	background-color: #7caaad;
+
+}
+
+h3{
+	color: #424949;
+	font-family: sans-serif;
+	font-weight: lighter;
+	position: relative;left: 20px;
+}
+#riot li a{
+	text-decoration: none;
+	line-height: 50px;
+	color:#424949;
+	display: inline;
+	font-weight: bold;
+	font-family: sans-serif;
+	list-style: none;
+}
+
+#riot li a:hover{
+	color: #565959;
+}
+.mid table th{
+	font-family: sans-serif;
+}
+.mid{
+	position: relative;
+	 
+}
+.mid table{
+	width: 1000px;
+}
